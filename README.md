@@ -1,5 +1,5 @@
 # USBAlert
-sends email alert when a USB is inserted - includes, IP, Hostname and current user
+sends email alert when a USB Drive is inserted - includes, IP, Hostname and current user. This helps with USB policies along with bilocker 
 
 
 To use convert to exe using -   pyinstaller --onefile .\USBAlert.pyw
